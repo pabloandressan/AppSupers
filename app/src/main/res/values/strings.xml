@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Appsupers</string>
     <string name="app_name">Superheroes</string>
     <string name="hero1">Nick the Night and Day</string>
     <string name="description1">The Jetpack Hero</string>
